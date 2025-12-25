@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "あいどんわなだい",
+  "base_artist": "銀杏BOYZ",
+  "createdAt": "2025-12-25T10:52:38.084224Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あいどんわなだい",
+      "artist": "GING NANG BOYZ",
+      "has_synced": false,
+      "path": "select/01_あいどんわなだい_GING_NANG_BOYZ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あいどんわなだい",
+      "artist": "銀杏BOYZ",
+      "has_synced": false,
+      "path": "select/02_あいどんわなだい_銀杏BOYZ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あいどんわなだい",
+      "artist": "銀杏BOYZ",
+      "has_synced": false,
+      "path": "select/pl_01_あいどんわなだい_銀杏BOYZ.txt"
+    }
+  ]
+}
